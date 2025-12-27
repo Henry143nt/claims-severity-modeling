@@ -1,0 +1,16 @@
+# venv
+.venv/
+
+# data (don’t upload Kaggle data)
+data/*.csv
+
+# outputs
+outputs/
+
+# notebook checkpoints
+.ipynb_checkpoints/
+__pycache__/
+
+# OS junk
+.DS_Store
+Thumbs.db
