@@ -1,0 +1,19 @@
+# Virtual environments
+.venv/
+venv/
+
+# Data files (DO NOT COMMIT)
+data/
+data/*.csv
+*.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
